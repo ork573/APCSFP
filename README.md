@@ -1,2 +1,1 @@
-# APCSFP
-AP Computer Science-Final Project 
+# tri1f-teacher
