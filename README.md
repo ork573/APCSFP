@@ -1,1 +1,1 @@
-#Project starts from menuControl class
+#Project starts from the main method in the menuControl class
